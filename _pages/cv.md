@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024–Present
-* B.Eng., Shanghai Jiao Tong University, 2020–2024
+* Ph.D. in Computer Science (2024–Present), Hong Kong University of Science and Technology
+* B.Eng. (2020–2024), Shanghai Jiao Tong University
 
 Research Experience
 ======
-* Research Intern, MINIMAX, Feb 2025–Present
-* Research Intern, Tencent WXG, Jun 2024–Sep 2024
-* Research Intern, Shanghai AI Lab, Jun 2023–Dec 2024
+* Research Intern, MINIMAX (February 2025–Present)
+* Research Intern, Tencent WXG (June 2024–September 2024)
+* Research Intern, Shanghai AI Lab (June 2023–December 2023)
 
 Awards
 ======
-* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University, 2024
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Research Interests
 ======
+* Natural Language Processing and Machine Learning
 * LLM Reasoning and Reinforcement Learning
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
-* Natural Language Processing and Machine Learning
 
 Publications
 ======
@@ -48,7 +48,3 @@ Teaching
   &lt;ul&gt;{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}&lt;/ul&gt;
-  
-Service and leadership
-======
-* Active contributor to open-source NLP research
